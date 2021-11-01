@@ -5,13 +5,13 @@ Cal Sans is a geometric sanserif tuned for display, that is, large point sizes. 
 
 The basis of Cal Sans is my initial answer to what my Futura would be. It fit well with Peer’s brief, for something serious and and geometric so that the letters of “cal.com” would have circular shapes throughout. It was decided early on that it be open source for all!
 
-![Specimen Example](/font/documentation/images/blog-specimen.jpg)
+![Specimen Example](/documentation/images/blog-specimen.jpg)
 
 
 ## Design Philosophy and Unique Characteristics
 As this design was created for display, and is currently a single static font, an unusual approach for its texture and default typography. Letters are intentionally spaced to be extremely close for tight headlines “out of the box.” For smaller subheadings, positive letter spacing must be applied. There are currently no other Open Source geometric sanserifs geared as intentionally for “tight but not touching” typesetting—as it is more labor intensive to produce with such accurate texture. But for typesetters, if they would letterspace another design as tight, the results would not be as consistent.
 
-![Open Source Fonts’ Default Spacing](/font/documentation/images/Default-Spacing.gif)
+![Open Source Fonts’ Default Spacing](/documentation/images/Default-Spacing.gif)
 
 So, for end users, more flexibility is available when the tightest typesetting extreme edge case gracefully addressed, and one may create looser typesetting as needed.
 
@@ -25,11 +25,11 @@ I give credit to [Rasmus Andersson](https://twitter.com/rsms) implementing in hi
 
 In celebration of Futura’s geometrically extreme ligatures, Cal Sans has experimental approach to ligatures, Stylistic Set 02 (ss02) is identical to ss01, but also combines eligible letters as historical Futura ligatures. This is included as a stylistic set and not as discretionary ligatures because the default set of characters really do not match these historical ligatures. (But they were included anyway!)
 
-![A sample of ss02](/font/documentation/images/blog-specimen_ss02.jpg)
+![A sample of ss02](/documentation/images/blog-specimen_ss02.jpg)
 
 Probably the most novel OpenType feature of Cal Sans is its third Stylistic Set (ss03). The best way to show its…need is to show how the “tight but not touching” affects spacing when diagonals appear together. Some designers would _never_ want their letters to overlap or touch in a headline, or very large title.
 
-![Open Source Fonts’ Default Spacing](/font/documentation/images/ss03_kerning.gif)
+![Open Source Fonts’ Default Spacing](/documentation/images/ss03_kerning.gif)
 
 The very steep diagonals and always providing space between these common letter shapes, to other designs, cause more problems in spacing than the “stock“ kerning solves. Such letter combinations aren’t…incredibly common, but they are not rare, nor is spacing letters in a way that is sometimes consistent a goal of mine. But, I see merits in both paths. **So, ss03 overrides diagonal-to-diagonal kerning pairs with new ones that let these shapes “crash.”**
 
