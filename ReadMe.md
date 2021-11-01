@@ -19,7 +19,7 @@ So, for end users, more flexibility is available when the tightest typesetting e
 ## OpenType Features
 While the default design is fairly ahistorical, there are historical design options. Using Stylistic Set 01 (ss01), Futura-specific alternates can be deployed. Including diacritic variants, there are 48 alternates for this set.
 
-![A sample of ss01](/font/documentation/images/blog-specimen_ss01.jpg)
+![A sample of ss01](/documentation/images/blog-specimen_ss01.jpg)
 
 I give credit to [Rasmus Andersson](https://twitter.com/rsms) implementing in his design [Inter](https://github.com/rsms/inter) Character Variants to offer more control in website typography. Cal Sans also employs this feature. There are six Character Variants in Cal Sans, for **Cc (cv01)**, **j (cv02)**, **t (cv03)**, **u (cv04)**, **0 (cv05**, and **1 (cv06)**.
 
