@@ -90,7 +90,7 @@ import "cal-sans";
 Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS-in-JS.
 
 ```css
-/* massign the Cal Sans font-family */
+/* assign the Cal Sans font-family */
 html,
 body {
   font-family: "Cal Sans";
