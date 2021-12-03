@@ -7,7 +7,9 @@
   "repository": "https://github.com/calendso/font.git",
   "bugs": "https://github.com/calendso/font/issues",
   "files": [
-    "fonts",
+    "fonts/webfonts/*.ttf",
+    "fonts/webfonts/*.woff2",
+    "fonts/webfonts/*.woff",
     "index.css"
   ],
   "main": "index.css",
