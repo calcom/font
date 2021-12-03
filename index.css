@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Cal Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("./fonts/webfonts/CalSans-SemiBold.woff2") format("woff2"),
+    url("./fonts/webfonts/CalSans-SemiBold.woff") format("woff"),
+    url("./fonts/webfonts/CalSans-SemiBold.ttf") format("truetype");
+}
