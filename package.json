@@ -1,0 +1,33 @@
+{
+  "name": "cal-sans",
+  "description": "Geometric sans-serif typeface to adorn the headlines and interfaces of Cal.com",
+  "version": "0.0.0",
+  "author": "Mark Davis <Mark@DesignerMarkDavis.com>",
+  "homepage": "https://github.com/calendso/font",
+  "repository": "https://github.com/calendso/font.git",
+  "bugs": "https://github.com/calendso/font/issues",
+  "files": [
+    "fonts/webfonts/*.ttf",
+    "fonts/webfonts/*.woff2",
+    "fonts/webfonts/*.woff",
+    "index.css"
+  ],
+  "main": "index.css",
+  "sideEffects": false,
+  "prettier": {
+    "endOfLine": "auto",
+    "printWidth": 120,
+    "semi": true,
+    "singleQuote": false,
+    "trailingComma": "all"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "cal",
+    "cal-sans"
+  ],
+  "license": "SEE LICENSE IN OFL.TXT"
+}

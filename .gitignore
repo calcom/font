@@ -1,0 +1,16 @@
+**/node_modules/
+*.log
+.DS_Store
+.pnp.*
+.yarn/*
+/files/*
+package-lock.json
+yarn.lock
+
+!**/.gitkeep
+!.env.example
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
