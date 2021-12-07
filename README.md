@@ -17,7 +17,7 @@ Geometric sans-serif typeface to adorn the headlines and interfaces of Cal.com
 - [OpenType Features](#opentype-features)
 - [Installation Instructions](#installation-instructions)
   - [Desktop](#desktop)
-- [NPM Package](#npm-package)
+  - [NPM Package](#npm-package)
 - [Example Usage](#example-usage)
 - [Special Thanks](#special-thanks)
 - [License](#license)
@@ -69,7 +69,7 @@ I don’t know of any other typefaces that has many kerning options, hopefully t
 - [macOS](https://support.apple.com/en-us/HT201749)
 - [Windows](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows)
 
-## NPM Package
+### NPM Package
 
 ```sh
 # using npm
