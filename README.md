@@ -18,6 +18,7 @@ Geometric sans-serif typeface to adorn the headlines and interfaces of Cal.com
 - [Installation Instructions](#installation-instructions)
   - [Desktop](#desktop)
   - [NPM Package](#npm-package)
+  - [CDN via unpkg.com](#cdn-via-unpkgcom)
 - [Example Usage](#example-usage)
 - [Special Thanks](#special-thanks)
 - [License](#license)
@@ -78,6 +79,11 @@ npm install cal-sans
 # using yarn
 yarn add cal-sans
 ```
+
+### CDN via unpkg.com
+
+- Latest version: <https://unpkg.com/cal-sans/index.css>
+- Pinned version: <https://unpkg.com/cal-sans@1.0.1/index.css>
 
 ## Example Usage
 
