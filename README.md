@@ -2,9 +2,9 @@
 
 # Cal Sans 1.0
 
-![npm](https://badgen.net/npm/v/cal-sans)
-![packagephobia/install](https://badgen.net/packagephobia/install/cal-sans)
-![packagephobia/publish](https://badgen.net/packagephobia/publish/cal-sans)
+[![npm](https://badgen.net/npm/v/cal-sans)](https://www.npmjs.com/package/cal-sans)
+[![packagephobia/install](https://badgen.net/packagephobia/install/cal-sans)](https://www.npmjs.com/package/cal-sans)
+[![packagephobia/publish](https://badgen.net/packagephobia/publish/cal-sans)](https://www.npmjs.com/package/cal-sans)
 
 Geometric sans-serif typeface to adorn the headlines and interfaces of Cal.com
 
