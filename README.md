@@ -132,7 +132,7 @@ h6 {
 
 ## Special Thanks
 
-Thank you to Peer for commisioning this project, and for [Maxim Leyzerovich](https://twitter.com/round) for recommending me. I also wanted to shout out Bold Monday’s Futura Today, a design that I love. I wanted to also thank Wei Huang for his Open Source “Perfect Glyphs Example File” that is Work Sans dot glyphs. Incredibly helpful, and exhibits genius.
+Thank you to Peer for commissioning this project, and for [Maxim Leyzerovich](https://twitter.com/round) for recommending me. I also wanted to shout out Bold Monday’s Futura Today, a design that I love. I wanted to also thank Wei Huang for his Open Source “Perfect Glyphs Example File” that is Work Sans dot glyphs. Incredibly helpful, and exhibits genius.
 
 The following people were invaluable to this project, in no specific order, with an undisclosed amount of personal (or impersonal) influence:
 
