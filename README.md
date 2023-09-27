@@ -133,6 +133,30 @@ h6 {
 
 ### Next.js 13
 
+```js
+import { Inter } from "next/font/google";
+import localFont from "next/font/local";
+
+const inter = Inter({ subsets: ["latin"] });
+
+const myFont = localFont({
+  src: "../fonts/CalSans-SemiBold.woff2"
+});
+ 
+function RootLayout({ children }) {
+  return (
+    <html lang="en">
+     <body className={myFont.className}>
+       {children}
+     </body>
+    </html> 
+),
+} 
+
+```
+Demo: https://twitter.com/asidorenko_/status/1707040985572667414 by @SidKH
+
+
 ## Special Thanks
 
 Thank you to Peer for commisioning this project, and for [Maxim Leyzerovich](https://twitter.com/round) for recommending me. I also wanted to shout out Bold Monday’s Futura Today, a design that I love. I wanted to also thank Wei Huang for his Open Source “Perfect Glyphs Example File” that is Work Sans dot glyphs. Incredibly helpful, and exhibits genius.
