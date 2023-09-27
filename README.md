@@ -134,10 +134,10 @@ h6 {
 ### Next.js 13
 
 ```js
-import { Inter } from "next/font/google";
+// import { Inter } from "next/font/google";
 import localFont from "next/font/local";
 
-const inter = Inter({ subsets: ["latin"] });
+// const inter = Inter({ subsets: ["latin"] });
 
 const myFont = localFont({
   src: "../fonts/CalSans-SemiBold.woff2"
