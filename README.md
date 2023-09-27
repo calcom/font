@@ -19,6 +19,7 @@ Geometric sans-serif typeface to adorn the headlines and interfaces of Cal.com
   - [Desktop](#desktop)
 - [NPM Package](#npm-package)
 - [Example Usage](#example-usage)
+  - [Next.js 13](#nextjs-13)
 - [Special Thanks](#special-thanks)
 - [License](#license)
 - [Repository Layout](#repository-layout)
@@ -129,6 +130,8 @@ h6 {
   letter-spacing: 0.045em;
 }
 ```
+
+### Next.js 13
 
 ## Special Thanks
 
