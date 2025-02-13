@@ -1,9 +1,5 @@
 {
 .appVersion = "3340";
-DisplayStrings = (
-"/u.ss01/uacute.ss01/ubreve.ss01/ucircumflex.ss01/udieresis.ss01/udotbelow.ss01/ugrave.ss01/uhookabove.ss01/u.ss01/uhorn.ss01/uhungarumlaut.ss01/umacron.ss01/uogonek.ss01/uring.ss01/utilde.ss01",
-"µ/u.ss01/micro.ss01"
-);
 classes = (
 {
 automatic = 1;
@@ -12,6 +8,12 @@ name = Uppercase;
 }
 );
 copyright = "Copyright © 2021 by Designer Mark Davis DBA MarkFonts. ";
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2021-11-01 03:05:08 +0000";
 designer = "Designer Mark Davis DBA MarkFonts";
 designerURL = "https://designermarkdavis.com/";
@@ -118,6 +120,40 @@ alignmentZones = (
 );
 ascender = 730;
 capHeight = 700;
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -300;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1140;
+},
+{
+name = winDescent;
+value = 222;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 descender = -200;
 id = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
 visible = 1;
