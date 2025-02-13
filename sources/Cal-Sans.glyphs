@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2021 by Designer Mark Davis DBA MarkFonts. ";
+copyright = "Copyright 2021 The Cal Sans Project Authors (https://github.com/calcom/font)";
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -17,6 +17,14 @@ value = 1;
 name = fsType;
 value = (
 );
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+},
+{
+name = licenseURL;
+value = "https://openfontlicense.org";
 }
 );
 date = "2021-11-01 03:05:08 +0000";
