@@ -1,5 +1,8 @@
 {
 .appVersion = "3340";
+DisplayStrings = (
+"IJ/IJacute"
+);
 classes = (
 {
 automatic = 1;
@@ -108,7 +111,6 @@ name = frac;
 {
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012sub N o period by numero;\012";
-disabled = 1;
 name = ordn;
 },
 {
