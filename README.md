@@ -1,3 +1,5 @@
+Copyright (c) 2021, Mark Davis mark@designermarkdavis.com, with Font "Cal Sans". Commissioned by Peer Richelsen for Cal.com. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
 <!-- markdownlint-disable MD033 MD036 MD041 -->
 
 # Cal Sans 1.0
